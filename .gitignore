@@ -1,0 +1,23 @@
+# Ignore service account key
+service-account-key.json
+
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# IDE specific files
+.vscode/
+*.code-workspace
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
